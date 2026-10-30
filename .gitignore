@@ -1,0 +1,5 @@
+# Compiled binaries and bytecode
+*ocr_boxes_bin
+__pycache__/
+*.pyc
+.DS_Store
